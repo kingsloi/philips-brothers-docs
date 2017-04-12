@@ -5,7 +5,9 @@ Users cannot create their own accounts. Any website admin can create a user acco
 
 To login, access the philipbrothers website via: {{ book.url }}{{ book.login_url }}
 
-<img src="/assets/login.png" height="300" />
 
-
+<figure>
+    <img src="/assets/login.png" height="300" />
+    <figcaption>Image - Phra Nakhon Khiri, Phetchaburi</figcaption>
+</figure>
 
