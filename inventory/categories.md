@@ -6,7 +6,7 @@ Before adding any inventory to the system, it's important to add the corrospondi
 
 ## Adding a Category
 
-To add a category, navigate to {{ book.url }}/admin/inventory/categories/home
+To add a category, navigate to {{ book.url }}/admin/inventory/categories/home.
 
 ## Default Details
 
