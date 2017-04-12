@@ -5,6 +5,7 @@ Users cannot create their own accounts. Any website admin can create a user acco
 
 To login, access the philipbrothers website via: {{ book.url }}{{ book.login_url }}
 
+Users can either login with their email address, or if set, a username, and their password.
 
 <figure>
     <img src="/assets/login.png" height="300" />
