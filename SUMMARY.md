@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Inventory](inventory.md)
-    * [Writing is nice](part1/README.md#writing)
-    * [GitBook is nice](part1/README.md#gitbook)
+    * [Categories](inventory/categories.md)
+    * [Inventory](inventory/Inventory.md)
 * [Contact, Issues, Bugs, etc.](contact-issues-bugs.md)
 
