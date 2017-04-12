@@ -1,6 +1,6 @@
 # Contact, Issues, Bugs, etc.
 
-What to do when things go wrong.
+What to do when you need questions or things go wrong.
 
 ## Contacting Kingsley
 
