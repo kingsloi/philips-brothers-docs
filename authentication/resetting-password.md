@@ -11,22 +11,16 @@ You will need to know the email address associated to your account. If you canno
 
 
 To Reset your password:
-1. Enter in your email address.
-2. Click the `Send Password Reset Email` button.
-3. A reset link will be sent to the email address requested. It can take up to 10 minutes to receive the reset email. Be sure to check your junk/spam folder.
-4. In the email that arrives, click the `Reset Password` button.
-5. You will be taken to the following screen:
-
-
-    
+* Enter in your email address.
+* Click the `Send Password Reset Email` button.
+* A reset link will be sent to the email address requested. It can take up to 10 minutes to receive the reset email. Be sure to check your junk/spam folder.
+* In the email that arrives, click the `Reset Password` button.
+* You will be taken to the following screen:
     
     <figure>
         <img src="/assets/new-password.png" height="300" />
         <figcaption>Reset your Password Screen</figcaption>
     </figure>
 
-    
-
-
-6. Enter a new
+* Enter and confirm your new password. Make sure it contains one lowercase, one number, and be at least 7 characters long.
 
