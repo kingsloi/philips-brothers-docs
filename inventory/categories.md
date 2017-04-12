@@ -4,6 +4,12 @@ Categories serve as the navigation that appear underneath the `Inventory` page o
 
 Before adding any inventory, it's important to add the corrosponding categories first, as each inventory item will need a category. Categories can be added/updated/deleted at any time. 
 
+* [Adding a Category](#adding-a-category)
+* [Updating a Category](#updating-a-category)
+* [Deleting a Category](#deleting-a-category)
+* [Restoring a Category](#restoring-a-category)
+* [Permanently Deleting a Category](#permanently-deleting-a-category)
+
 ## Adding a Category
 
 To add a category: 
