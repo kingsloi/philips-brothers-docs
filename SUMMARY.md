@@ -1,6 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
+* [Users](authentication.md)
+  * [Logging In](authentication/logging-in.md)
+  * [Resetting Password](authentication/resetting-password.md)
 * [Inventory Management](inventory.md)
   * [Categories](inventory/categories.md)
   * [Inventory](inventory/Inventory.md)
