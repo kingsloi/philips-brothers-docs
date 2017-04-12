@@ -57,7 +57,35 @@ To delete a category:
 * Click `Yes, delete it!`
 
 ## Restoring a Category
-If a category has been deleted, it is not deleted permanately 
+If a category has been deleted, it is not deleted permanently. Deleted categories will not be visible on the customer facing website, the search results, or in any of the admin sections. 
+
+It is however possible to restore a category so that it is available once again. 
+
+To do this:
+* Navigate to {{ book.url }}/admin/inventory/categories/home.
+* Directly above the table are two links to `All` and `Deleted`
+* Click `Deleted`
+* All deleted categories will appear here.
+* Choose a deleted category from the list.
+* Scroll down to the `Danger Zone` in the `General` tab.
+* Click `Restore`.
+* This category is now available for use again. 
+
+**Note**: any inventory that was once associated to the deleted category will remain unchanged. 
+
+## Permanently Deleting a Category
+A category can only be permanently deleted if it has already been marked in active. 
+
+To permanently delete a category:
+* Follow steps above, however instead of clicking `Restore`, click `Permanently Delete`
+* Once prompted, confirm you do wish to delete the category.
+* Click `Yes, delete it!`
+* The category will deleted permanently no longer be restorable.
+
+
+
+
+
 
 
 
