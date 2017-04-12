@@ -1,4 +1,4 @@
 # Resetting Password
 
-If you're having trouble remembering your password, you can reset your password via "Reset Your Password" for
+If you're having trouble remembering your password, you can reset your password via "Reset Your Password" for {{ book.supportContactFName }}
 
