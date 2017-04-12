@@ -15,6 +15,10 @@ To add a category:
     <figcaption>Reset your Password Screen</figcaption>
 </figure>
 
+* Enter in the new category name first.
+* The `slug` (what appears in the address bar) will be automatically generated.
+* Does the category belong to another category? If so, select the parent category from the dropdown list. 
+* Click `New +`
 
 ## Default Details
 
