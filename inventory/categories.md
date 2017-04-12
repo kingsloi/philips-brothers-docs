@@ -2,7 +2,7 @@
 
 Categories serve as the navigation that appear underneath the `Inventory` page on the customer facing website, and ultimately allow the user to get to the right product quicker. 
 
-Before adding any inventory to the system, it's important to add the corrosponding categories first, as each inventory item will need a category. Categories can be added/updated/deleted at any time. 
+Before adding any inventory, it's important to add the corrosponding categories first, as each inventory item will need a category. Categories can be added/updated/deleted at any time. 
 
 ## Adding a Category
 
@@ -44,6 +44,22 @@ When a user creates an inventory item in that category, those 3 details are auto
     <img src="/assets/default-details.jpg"/>
     <figcaption>Default Details</figcaption>
 </figure>
+
+## Deleting a Category
+Deleting a category which has inventory applied to it will **not** delete any inventory. Instead, any inventory assigned to that category will be reassigned to an `Uncategorized` category. 
+
+To delete a category:
+* Navigate to {{ book.url }}/admin/inventory/categories/home.
+* Choose the category from the list.
+* Scroll down to the `Danger Zone` in the `General` tab.
+* Click `Delete`.
+* Once prompted, confirm you do wish to delete the category.
+* Click `Yes, delete it!`
+
+## Restoring a Category
+If a category has been deleted, it is not deleted permanately 
+
+
 
 
 
