@@ -12,3 +12,5 @@ Users can either login with their email address, or if set, a username, and thei
     <figcaption>Login Screen</figcaption>
 </figure>
 
+## Can't login?
+[Reset your Password](/authentication/resetting-password.md)
