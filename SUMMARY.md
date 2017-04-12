@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Contact](chapter1.md)
+* [Contact, Issues, Bugs, etc.](chapter1.md)
 
