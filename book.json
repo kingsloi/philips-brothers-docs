@@ -6,5 +6,8 @@
         "supportContactFName": "Kingsley",
         "supportContactLName": "Raspe",
         "supportContactEmail": "kingsley.raspe@googlemail.com"
-    }
+    },
+    "plugins": [
+        "image-captions"
+    ]
 }
