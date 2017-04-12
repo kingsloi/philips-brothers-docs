@@ -18,11 +18,22 @@ To add a category:
 * Enter in the new category name first.
 * The `slug` (what appears in the address bar) will be automatically generated.
 * Does the category belong to another category? If so, select the parent category from the dropdown list. 
-* Click `New +`
+* Click `New`
 
-## Default Details
+## Update a Category
+
+To update a category:
+* Navigate to {{ book.url }}/admin/inventory/categories/home.
+* Choose the category from the list.
+
+### Default Details
 
 Each category can have default details applied to it. 
+
+<figure>
+    <img src="/assets/add-category.png" height="300" />
+    <figcaption>Reset your Password Screen</figcaption>
+</figure>
 
 
 
