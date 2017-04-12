@@ -4,4 +4,4 @@ All users, whether admin or customers login via the same login form. Roles and p
 
 To login, access the philipbrothers website via: {{ book.url }}
 
-![](/assets/login.png)
+<img src="/assets/login.png" width="200" height="100" />
