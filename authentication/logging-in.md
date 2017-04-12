@@ -13,4 +13,4 @@ To login, access the philipbrothers website via: {{ book.url }}{{ book.login_url
 Users can either login with their email address, or if set, a username, and their password.
 
 ## Can't login?
-Users can [Reset their Password](/authentication/resetting-password.md).
+You can [Reset your Password](/authentication/resetting-password.md).
