@@ -4,13 +4,7 @@ The new philipsbrothers.com website is a fully integrated system for managing al
 
 The purpose of this user guide is to provide instructional information on how to complete the most common tasks on the new Philips Brother website.
 
-## Contact
-
-Please do not hesitate to contact Kingsley at kingsley.raspe@googlemail.com if you have any other questions.
-
 ## Issues/Bugs
 
 Please report all bugs to [https://bitbucket.org/kingsloi/philipsbrothers/issues](https://bitbucket.org/kingsloi/philipsbrothers/issues) and provide as much detail as possible.
-
-
 
