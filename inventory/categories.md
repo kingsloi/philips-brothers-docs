@@ -20,7 +20,7 @@ To add a category:
 * Does the category belong to another category? If so, select the parent category from the dropdown list. 
 * Click `New`
 
-## Update a Category
+## Updating a Category
 
 To update a category:
 * Navigate to {{ book.url }}/admin/inventory/categories/home.
