@@ -1,6 +1,6 @@
 # Categories
 
-Categories serve as the navigation that appear underneath the `Inventory` page, and ultimate allow the user to get to the right product quicker. 
+Categories serve as the navigation that appear underneath the `Inventory` page on the customer facing website, and ultimately allow the user to get to the right product quicker. 
 
 Before adding any inventory to the system, it's important to add the corrosponding categories first, as each inventory item will need a category. Categories can be added/updated/deleted at any time. 
 
