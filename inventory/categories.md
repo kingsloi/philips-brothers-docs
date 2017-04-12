@@ -25,13 +25,23 @@ To add a category:
 To update a category:
 * Navigate to {{ book.url }}/admin/inventory/categories/home.
 * Choose the category from the list.
+* Make whatever changes are necessary to the category.
+* Click `Save`
 
-### Default Details
+### Default Details/Features/Facets 
 
-Each category can have default details applied to it. 
+To save the user time, rather than apply the same details (i.e. Voltage, Length, Height, etc.) to every inventory item, we've implemented default details for categories. What this means is that any inventory that's created in a category with default details, those `details` will be applied to the inventory. 
+
+As an example, here's a category with 3 default details:
+
+1. Year
+2. Cost
+3. Voltage
+
+When a user creates an inventory item in that category, those 3 details are automatically applied to the inventory item. The user will need to fill in the values for those details, or delete them if not necessary. 
 
 <figure>
-    <img src="/assets/add-category.png" height="300" />
+    <img src="/assets/default-details.jpg"/>
     <figcaption>Reset your Password Screen</figcaption>
 </figure>
 
