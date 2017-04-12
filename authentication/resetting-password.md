@@ -17,10 +17,16 @@ To Reset your password:
 4. In the email that arrives, click the `Reset Password` button.
 5. You will be taken to the following screen:
 
-<figure>
-    <img src="/assets/new-password.png" height="300" />
-    <figcaption>Reset your Password Screen</figcaption>
-</figure>
+
+    
+    ```
+    <figure>
+        <img src="/assets/new-password.png" height="300" />
+        <figcaption>Reset your Password Screen</figcaption>
+    </figure>
+
+    ```
+
 
 6. Enter a new
 
