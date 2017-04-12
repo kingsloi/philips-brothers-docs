@@ -9,5 +9,8 @@
     },
     "plugins": [
         "image-captions"
-    ]
+    ],
+    "styles": {
+      "website": "styles.css",
+    }    
 }
