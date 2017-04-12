@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Users](authentication.md)
+* [Authentication](authentication.md)
   * [Logging In](authentication/logging-in.md)
   * [Resetting Password](authentication/resetting-password.md)
 * [Inventory Management](inventory.md)
