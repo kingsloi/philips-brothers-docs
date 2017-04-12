@@ -1,6 +1,6 @@
 {
     "variables": {
-        "support_contact_name": "Kingsley Raspe",
-        "support_contact_email": "kingsley.raspe@googlemail.com"
+        "supportContactName": "Kingsley Raspe",
+        "supportContactEmail": "kingsley.raspe@googlemail.com"
     }
 }
