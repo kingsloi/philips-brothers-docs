@@ -1,6 +1,7 @@
 {
     "variables": {
         "url": "http://67.205.145.225",
+        "url": "/login",
         "supportContactName": "Kingsley Raspe",
         "supportContactFName": "Kingsley",
         "supportContactLName": "Raspe",
