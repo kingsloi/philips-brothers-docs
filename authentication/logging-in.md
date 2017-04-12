@@ -8,6 +8,6 @@ To login, access the philipbrothers website via: {{ book.url }}{{ book.login_url
 
 <figure>
     <img src="/assets/login.png" height="300" />
-    <figcaption>Image - Phra Nakhon Khiri, Phetchaburi</figcaption>
+    <figcaption>Login Screen</figcaption>
 </figure>
 
