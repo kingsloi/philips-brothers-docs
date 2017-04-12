@@ -5,8 +5,6 @@ All users, both admin or customers login via the same login form. Roles and perm
     <img src="/assets/login.png" height="300" />
     <figcaption>Login Screen</figcaption>
 </figure>
-
-
   
 Users cannot create their own accounts. Any website admin can create a user account. Contact Philips Brothers directly if you need an account set up.
 
