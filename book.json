@@ -11,6 +11,6 @@
         "image-captions"
     ],
     "styles": {
-      "website": "styles.css",
-    }    
+      "website": "styles.css"
+    },
 }
