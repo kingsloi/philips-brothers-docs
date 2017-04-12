@@ -42,7 +42,7 @@ When a user creates an inventory item in that category, those 3 details are auto
 
 <figure>
     <img src="/assets/default-details.jpg"/>
-    <figcaption>Reset your Password Screen</figcaption>
+    <figcaption>Default Details</figcaption>
 </figure>
 
 
