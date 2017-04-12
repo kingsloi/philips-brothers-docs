@@ -19,13 +19,13 @@ To Reset your password:
 
 
     
-    ```
+    
     <figure>
         <img src="/assets/new-password.png" height="300" />
         <figcaption>Reset your Password Screen</figcaption>
     </figure>
 
-    ```
+    
 
 
 6. Enter a new
