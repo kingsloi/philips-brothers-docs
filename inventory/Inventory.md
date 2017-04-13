@@ -16,7 +16,11 @@ To add an inventory item:
 
 * Navigate to {{ book.url }}/admin/inventory/home.
 * Click `New`
-
+<figure>
+    <img src="/assets/add-inventory.png" height="300" />
+    <figcaption>Add a Category Screen</figcaption>
+</figure>
+* 
 
 ## Updating an Inventory Item
 
