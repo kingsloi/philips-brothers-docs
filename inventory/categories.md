@@ -30,7 +30,7 @@ To add a category:
 
 To update a category:
 * Navigate to {{ book.url }}/admin/inventory/categories/home.
-* Choose the category from the list.
+* Choose the category you wish to edit from the list.
 * Make whatever changes are necessary to the category.
 * Click `Save`
 
