@@ -18,7 +18,7 @@ To add a category:
 
 <figure>
     <img src="/assets/add-category.png" height="300" />
-    <figcaption>Reset your Password Screen</figcaption>
+    <figcaption>Add a Category Screen</figcaption>
 </figure>
 
 * Enter in the new category name first.
