@@ -4,7 +4,6 @@ Once the appropriate category has been created, inventory can then be assigned t
 
 An "Inventory Item" can be anything. The smallest screw, to the biggest transformer. What you wish to store as inventory is entirely up to you.
 
-
 * [Inventory Fields](#inventory-fields)
 * [Adding an Inventory Item](#adding-an-inventory-item)
 * [Updating an Inventory Item](#updating-an-inventory-item)
