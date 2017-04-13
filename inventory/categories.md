@@ -38,7 +38,7 @@ To update a category:
 
 To save the user time and rather than apply the same details (i.e. Voltage, Length, Height, etc.) to every inventory item, we've implemented default details for categories. What this means is that any inventory that's created in a category with default details, those `details` will be applied to the inventory. 
 
-As an example, here's a category with 3 default details:
+As an example, here's a category with 3 set default details:
 
 1. Year
 2. Cost
