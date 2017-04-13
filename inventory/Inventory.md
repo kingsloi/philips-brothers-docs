@@ -4,11 +4,16 @@ Once the appropriate category has been created, inventory can then be assigned t
 
 An "Inventory Item" can be anything. The smallest screw, to the biggest transformer. What you wish to store as inventory is entirely up to you.
 
+
+* [Inventory Fields](#inventory-fields)
 * [Adding an Inventory Item](#adding-an-inventory-item)
 * [Updating an Inventory Item](#updating-an-inventory-item)
 * [Deleting an Inventory Item](#deleting-an-inventory-item)
 * [Restoring an Inventory Item](#restoring-an-inventory-item)
 * [Permanently Deleting an Inventory Item](#permanently-deleting-an-inventory-item)
+
+## Inventory Fields
+For more information on the fields used throughout the inventory pages, visit the [fields](/inventory/Inventory/fields.md).
 
 ## Adding an Inventory Item
 
