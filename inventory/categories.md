@@ -53,6 +53,7 @@ When a user creates an inventory item in that category, those 3 details are auto
 
 For more information on adding specifications/details/features, [visit the specification section in the inventory chapter](/inventory/Inventory.md#specification).
 
+
 ## Deleting a Category
 Deleting a category which has inventory applied to it will **not** delete any inventory. Instead, any inventory assigned to that category will be reassigned to an `Uncategorized` category. 
 
