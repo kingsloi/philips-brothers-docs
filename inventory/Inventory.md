@@ -29,6 +29,8 @@ An inventory item is made up of the following tabs and fields:
     * Does this inventory item belong to another inventory item? For example, imagine you had a parent inventory of `Car` already, and you were adding a `Steering Wheel` inventory item, you would select `Car` are the parent item, this would result in the `Steering Wheel` being displayed on the `Car` inventory page.
 
   * **Category**
+
+    * The category the inventory item belongs to.
 * ## **Images**
 * ## **Files**
 * ## **Inventory**
