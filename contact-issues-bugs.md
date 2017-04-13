@@ -8,7 +8,7 @@ Please do not hesitate to contact {{ book.supportContactFName }} on {{ book.supp
 
 ## Issues/Bugs
 
-Please report all bugs to [https://bitbucket.org/kingsloi/philipsbrothers/issues](https://bitbucket.org/kingsloi/philipsbrothers/issues) and provide as much detail as possible.
+Please report all bugs to [https://bitbucket.org/kingsloi/philipsbrothers/issues](https://bitbucket.org/kingsloi/philipsbrothers/issues) and provide as much detail as possible, and if possible, screenshots or error messages you received.
 
 An example of adding an issue can be seen below.
 
