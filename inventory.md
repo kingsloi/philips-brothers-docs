@@ -8,5 +8,3 @@ In the following chapters, you'll learn how to manage all aspects of the invento
 
 
 
-
-
