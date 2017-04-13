@@ -12,6 +12,7 @@ An "Inventory Item" can be anything. The smallest screw, to the biggest transfor
 * [Restoring an Inventory Item](#restoring-an-inventory-item)
 * [Permanently Deleting an Inventory Item](#permanently-deleting-an-inventory-item)
 
+----
 
 ## Inventory Fields
 For more information on the fields used throughout the inventory pages, visit the [fields](/inventory/Inventory/fields.md).
