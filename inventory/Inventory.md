@@ -26,7 +26,7 @@ To add an inventory item:
 * If applicable, enter in a description of the new inventory item.
 * Does the inventory item belong to another inventory item? If so, select the parent item from the dropdown list.
 * Select the appropriate category for the inventory.
-* Click `New`
+* Click `New`.
 
 ## Updating an Inventory Item
 
