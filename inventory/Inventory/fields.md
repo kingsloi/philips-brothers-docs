@@ -1,5 +1,7 @@
 # Fields
 
+---
+
 An inventory item is made up of the following tabs and fields:
 
 ## General Information
