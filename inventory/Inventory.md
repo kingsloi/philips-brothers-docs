@@ -14,7 +14,7 @@ An "Inventory Item" can be anything. The smallest screw, to the biggest transfor
 ----
 
 ## Inventory Fields
-For more information on the fields used throughout the inventory pages, visit the [fields](/inventory/Inventory/fields.md).
+For more information on the fields used throughout the inventory pages, visit the [fields](/inventory/Inventory/fields.md) page.
 
 ## Adding an Inventory Item
 
