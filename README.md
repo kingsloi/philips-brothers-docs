@@ -6,3 +6,5 @@ The purpose of this user guide is to provide instructional information on how to
 
 Familiarize yourself with the new website using the menu on the left.
 
+---
+
