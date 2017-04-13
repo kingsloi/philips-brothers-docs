@@ -79,5 +79,11 @@ To do this:
 
 ## Permanently Deleting an Inventory Item
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque deserunt dolorem dolorum alias voluptatum quasi numquam quis dolore velit dolor facere cumque ducimus vel dicta commodi voluptatibus, qui eos rem.
+An inventory item can only be permanently deleted if it has already been marked inactive. 
+
+To permanently delete a inventory item:
+* Follow steps above, however instead of clicking `Restore`, click `Permanently Delete`.
+* Once prompted, confirm you do wish to delete the inventory item.
+* Click `Yes, delete it!`.
+* The inventory will deleted permanently and no longer be restorable.
 
