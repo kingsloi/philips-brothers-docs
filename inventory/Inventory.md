@@ -6,7 +6,7 @@ An "Inventory Item" can be anything. The smallest screw, to the biggest transfor
 
 An inventory item is made up of the following tabs:
 
-* General Information
+* ## General Information
 
   * **Name**
     * The name of the inventory
@@ -24,16 +24,17 @@ An inventory item is made up of the following tabs:
     * Note: Unlike before, do not enter inventory-specific details such as rating, voltage, year, cost, etc. in the inventory description. There is a new tab called `Specification` that contains all the products features. This allows the product to be searchable and comparable to other inventory. 
 
   * **Parent item **
+
   * **Category**
+* ## **Images**
+* ## **Files**
+* ## **Inventory**
 
-* **Images**
-
-* **Files**
-* **Inventory**
   * **Quantity**
   * **Row**
   * **Section**
-* **Specification**
+* ## **Specification**
+
   * **Title**
   * **Content**
 
