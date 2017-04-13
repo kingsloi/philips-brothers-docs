@@ -4,7 +4,7 @@ What to do when you need questions or things go wrong.
 
 ## Contacting {{ book.supportContactFName }}
 
-Please do not hesitate to contact {{ book.supportContactFName }} at {{ book.supportContactEmail }} if you have any questions relating to the philipsbrothers.com website.
+Please do not hesitate to contact {{ book.supportContactFName }} on {{ book.supportContactPhone }} or {{ book.supportContactEmail }} if you have any questions relating to the philipsbrothers.com website.
 
 ## Issues/Bugs
 
