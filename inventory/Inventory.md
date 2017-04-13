@@ -14,7 +14,9 @@ An "Inventory Item" can be anything. The smallest screw, to the biggest transfor
 
 To add an inventory item:
 
-* Navigate to {{ book.url }}/admin/inventory/new.
+* Navigate to {{ book.url }}/admin/inventory/home.
+* Click `New`
+
 
 ## Updating an Inventory Item
 
