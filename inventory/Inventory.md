@@ -11,16 +11,24 @@ An "Inventory Item" can be anything. The smallest screw, to the biggest transfor
 * [Permanently Deleting an Inventory Item](#permanently-deleting-an-inventory-item)
 
 ## Adding an Inventory Item
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate ab eum error quas distinctio maxime rem, atque recusandae aspernatur illo minus placeat perspiciatis nostrum tempora sunt, fugiat id impedit incidunt.
+
+To add an inventory item:
+
+* {{ book.url }}
 
 ## Updating an Inventory Item
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque deserunt dolorem dolorum alias voluptatum quasi numquam quis dolore velit dolor facere cumque ducimus vel dicta commodi voluptatibus, qui eos rem.
 
 ## Deleting an Inventory Item
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque deserunt dolorem dolorum alias voluptatum quasi numquam quis dolore velit dolor facere cumque ducimus vel dicta commodi voluptatibus, qui eos rem.
 
 ## Restoring an Inventory Item
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque deserunt dolorem dolorum alias voluptatum quasi numquam quis dolore velit dolor facere cumque ducimus vel dicta commodi voluptatibus, qui eos rem.
 
 ## Permanently Deleting an Inventory Item
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque deserunt dolorem dolorum alias voluptatum quasi numquam quis dolore velit dolor facere cumque ducimus vel dicta commodi voluptatibus, qui eos rem.
+
