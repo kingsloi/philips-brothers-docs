@@ -62,13 +62,19 @@ As briefly discussed in the `Description` section above, the specification secti
 
 * **Icon**
 
-  * We use a icon library which allows us to use a variety of different icons on the site, icons which aid the user and improve the user experience. 
+  * We use a icon library which allows us to use a variety of different icons on the site, icons which aid the user and improve the user experience.
 
-  * All available icons can be found on the following page: http://fontawesome.io/icons/. To use an icon for a specification, similar find an icon you wish to use. Click on the icon, and the page that loads, select the `fa-*` text as show in the example below:
+  * All available icons can be found on the following page: [http://fontawesome.io/icons/](http://fontawesome.io/icons/). To use an icon for a specification, similar find an icon you wish to use. Click on the icon, and the page that loads, select the `fa-*` text as show in the example below:  
+    ![](/assets/font-awesome.png)
 
 * **Title**
 
+  * You can either choose from an existing specification from the dropdown list, or begin to type your own. Once typed, be sure to click the new item as seen in the example below:  
+    ![](/assets/add-new-specificaton.gif)
+
 * **Content**
+
+  * The value/content for that specification. I.e. If you're adding a voltage specification for a 12v battery inventory item, you'd enter `12v` for the content.
 
 
 
