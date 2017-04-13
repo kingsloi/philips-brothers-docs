@@ -83,7 +83,7 @@ To do this:
 A category can only be permanently deleted if it has already been marked inactive. 
 
 To permanently delete a category:
-* Follow steps above, however instead of clicking `Restore`, click `Permanently Delete`
+* Follow steps above, however instead of clicking `Restore`, click `Permanently Delete`.
 * Once prompted, confirm you do wish to delete the category.
 * Click `Yes, delete it!`
 * The category will deleted permanently and no longer be restorable.
