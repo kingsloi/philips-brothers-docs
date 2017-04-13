@@ -46,8 +46,9 @@ To update an inventory item:
 * Click `Save`
 
 ## Deleting an Inventory Item
+Any media (images/files) associated to an inventory item will be permanently deleted. 
 
-Deleting an inventory item which has child inventory applied to it will **not** delete any child inventory. Instead, any children inventory will be reassigned as normal (non-child) inventory items. 
+Deleting an inventory item which has children inventory applied to it will **not** delete any child inventory item. Instead, any children inventory will be reassigned as normal (non-child) inventory items. 
 
 To delete an inventory item:
 * Navigate to {{ book.url }}/admin/inventory/home.
@@ -57,10 +58,24 @@ To delete an inventory item:
 * Once prompted, confirm you do wish to delete the inventory item.
 * Click `Yes, delete it!`
 
-
 ## Restoring an Inventory Item
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque deserunt dolorem dolorum alias voluptatum quasi numquam quis dolore velit dolor facere cumque ducimus vel dicta commodi voluptatibus, qui eos rem.
+If a inventory item has been deleted, it is not deleted permanently. Deleted inventory items will not be visible on the customer facing website, the search results, or in any of the admin sections. 
+
+It is however possible to restore an inventory item so that it is available once again. 
+
+To do this:
+* Navigate to {{ book.url }}/admin/inventory/home.
+* Directly above the table are two links to `All` and `Deleted`
+* Click `Deleted`
+* All deleted inventory items will appear here.
+* Choose the deleted inventory item from the list.
+* Scroll down to the `Danger Zone` in the `General` tab.
+* Click `Restore`.
+* This inventory item is now available for use again. 
+
+**Note**: any inventory that was once associated to the deleted category will remain unchanged. 
+
 
 ## Permanently Deleting an Inventory Item
 
