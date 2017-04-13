@@ -51,7 +51,7 @@ An inventory item is made up of the following tabs and fields:
 
   As briefly discussed in the `Description` section above, the specification section is used to list an inventory items individual features/specification/facets. Basically, anything unique to that inventory which a potential customer would look for. For example: Voltage, Weight, Width, Cost, Year Made, Year Built, Cycles, are all specifications which a customer would like to now. A specification can be anything which is important to that particular inventory item.
 
-By
+       By entering 
 
 * * **Title**
   * **Content**
