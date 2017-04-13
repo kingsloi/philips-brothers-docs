@@ -1,4 +1,4 @@
-![](/assets/add-inventory.png)# Inventory
+# Inventory
 
 Once the appropriate category has been created, inventory can then be assigned to that category.
 
