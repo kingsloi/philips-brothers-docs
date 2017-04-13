@@ -5,7 +5,8 @@
         "supportContactName": "Kingsley Raspe",
         "supportContactFName": "Kingsley",
         "supportContactLName": "Raspe",
-        "supportContactEmail": "kingsley.raspe@googlemail.com"
+        "supportContactEmail": "kingsley.raspe@googlemail.com",
+        "supportContactPhone": "(219) 669-7437"
     },
     "plugins": [
         "image-captions"
