@@ -9,22 +9,23 @@ An inventory item is made up of the following tabs and fields:
 * ## General Information
 
   * **Name**
-    * The name of the inventory
+    * The name of the inventory.
   * **SKU **
 
-    * The unique SKU of the inventory
+    * The unique SKU of the inventory.
 
   * **Slug**
 
-    * The unique identifier which appears in the address bar
+    * The unique identifier which appears in the address bar.
 
   * **Description**
 
-    * The description of the inventory
+    * The description of the inventory.
     * Note: Unlike before, do not enter inventory-specific features/specification such as rating, voltage, year, cost, etc. in the inventory description. There is a new tab called `Specification` that contains all the products features. This allows the product to be searchable and comparable to other inventory. 
 
   * **Parent item **
 
+    * The parent item of the new inventory item.
     * Does the inventory item belong to another inventory item? For example, imagine you had a parent inventory of `Car` already, and you were adding a `Steering Wheel` inventory item, you would select `Car` are the parent item, this would result in the `Steering Wheel` being displayed on the `Car` inventory page.
 
   * **Category**
