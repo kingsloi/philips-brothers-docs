@@ -21,9 +21,11 @@ An inventory item is made up of the following tabs and fields:
   * **Description**
 
     * The description of the inventory
-    * Note: Unlike before, do not enter inventory-specific details such as rating, voltage, year, cost, etc. in the inventory description. There is a new tab called `Specification` that contains all the products features. This allows the product to be searchable and comparable to other inventory. 
+    * Note: Unlike before, do not enter inventory-specific features/specification such as rating, voltage, year, cost, etc. in the inventory description. There is a new tab called `Specification` that contains all the products features. This allows the product to be searchable and comparable to other inventory. 
 
   * **Parent item **
+
+    * Does the inventory item belong to another inventory item? For example, imagine you had a parent inventory of `Car` already, and you were adding a `Steering Wheel` inventory item, you would select `Car` are the parent item, this would result in the `Steering Wheel` being displayed on the `Car` inventory page.
 
   * **Category**
 * ## **Images**
