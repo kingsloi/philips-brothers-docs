@@ -8,4 +8,5 @@
 * [Inventory Management](inventory.md)
   * [Categories](inventory/categories.md)
   * [Inventory](inventory/Inventory.md)
+    * [Fields](inventory/Inventory/fields.md)
 
