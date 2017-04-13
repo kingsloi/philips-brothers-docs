@@ -56,7 +56,7 @@ Deleting a category which has inventory applied to it will **not** delete any in
 
 To delete a category:
 * Navigate to {{ book.url }}/admin/inventory/categories/home.
-* Choose the category from the list.
+* Choose the category you wish to delete from the list.
 * Scroll down to the `Danger Zone` in the `General` tab.
 * Click `Delete`.
 * Once prompted, confirm you do wish to delete the category.
