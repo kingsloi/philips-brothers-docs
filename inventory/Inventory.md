@@ -39,7 +39,7 @@ An inventory item is made up of the following tabs and fields:
   * Similar to `Images` above, drag and drop files \(files only - no images\). Files are automatically uploaded. Delete an uploaded file by clicking the red `X` next to the file.
 * ## Stock
 
-  An inventory can have 1 single stock, or it can have 10x 1000 stock. All stock movement is monitored, and its movements are logged. If you move/add/delete/change a quantity or location \(row/section\), the application will log the before and after of the movement.
+  An inventory can have 1 single stock, or it can have 10x 1000 stock. All stock is monitored, and its movements are logged. If you move/add/delete/change a quantity or location \(row/section\), the application will log the before and after of the movement.
 
 * * **Quantity**
     * Inventory quantity in that location
@@ -49,7 +49,11 @@ An inventory item is made up of the following tabs and fields:
     * Section which the inventory is currently stored.
 * ## **Specification**
 
-  * **Title**
+  As briefly discussed in the `Description` section above, the specification section is used to list an inventory items individual features/specification/facets. Basically, anything unique to that inventory which a potential customer would look for. For example: Voltage, Weight, Width, Cost, Year Made, Year Built, Cycles, are all specifications which a customer would like to now. A specification can be anything which is important to that particular inventory item.
+
+By
+
+* * **Title**
   * **Content**
 
 
