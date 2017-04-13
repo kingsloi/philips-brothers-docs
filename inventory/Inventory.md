@@ -24,7 +24,8 @@ To add an inventory item:
 * Enter in the inventory SKU.
 * The slug (what appears in the address bar) will be automatically generated based on the name.
 * If applicable, enter in a description of the new inventory item.
-* Does the category belong to another category? If so, select the parent category from the dropdown list.
+* Does the inventory item belong to another inventory item? If so, select the parent item from the dropdown list.
+* Select the appropriate category for the inventory.
 * Click `New`
 
 ## Updating an Inventory Item
