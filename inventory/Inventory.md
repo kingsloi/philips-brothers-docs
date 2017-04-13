@@ -21,7 +21,7 @@ An inventory item is made up of the following tabs and fields:
   * **Description**
 
     * The description of the inventory.
-    * \*note\*: Unlike before, do not enter inventory-specific features/specification such as rating, voltage, year, cost, etc. in the inventory description. There is a new tab called `Specification` that contains all the products features. This allows the product to be searchable and comparable to other inventory. 
+    * _note_: Unlike before, do not enter inventory-specific features/specification such as rating, voltage, year, cost, etc. in the inventory description. There is a new tab called `Specification` that contains all the products features. This allows the product to be searchable and comparable to other inventory. 
 
   * **Parent item **
 
