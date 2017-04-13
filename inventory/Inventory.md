@@ -33,8 +33,10 @@ An inventory item is made up of the following tabs and fields:
     * The category the inventory item belongs to.
 * ## **Images**
 
-  * Inventory
+  * Drag and drop any/all inventory pictures in the dashed upload box. Alternatively, click the dashed upload box and manually browse for the images on your computed. Select which images you wish to upload. Images are automatically uploaded. Delete an uploaded image by clicking the red `X` next to the image.
 * ## **Files**
+
+  * Similar to `Images` above, drag and drop files \(files only - no images\). Files are automatically uploaded. Delete an uploaded file by clicking the red `X` next to the file.
 * ## **Inventory**
 
   * **Quantity**
