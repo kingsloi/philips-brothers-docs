@@ -80,7 +80,7 @@ To do this:
 **Note**: any inventory that was once associated to the deleted category will remain unchanged. 
 
 ## Permanently Deleting a Category
-A category can only be permanently deleted if it has already been marked in active. 
+A category can only be permanently deleted if it has already been marked inactive. 
 
 To permanently delete a category:
 * Follow steps above, however instead of clicking `Restore`, click `Permanently Delete`
