@@ -18,7 +18,7 @@ You will need to know the email address associated to your account. If you canno
 * You will be taken to the following screen:
     
     <figure>
-        <img src="/assets/new-password.png" height="300" />
+        <img src="/assets/new-password.png" height="281" />
         <figcaption>Reset your Password Screen</figcaption>
     </figure>
 
