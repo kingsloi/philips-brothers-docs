@@ -35,9 +35,9 @@ To add an inventory item:
 To update an inventory item:
 
 * Navigate to {{ book.url }}/admin/inventory/home.
-* Choose the category you wish to edit from the list.
-* Make whatever changes are necessary to the category.
-* Click Save
+* Choose the inventory item you wish to edit from the list.
+* Make whatever changes are necessary to the inventory item.
+* Click `Save`
 
 ## Deleting an Inventory Item
 
