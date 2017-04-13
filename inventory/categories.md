@@ -44,7 +44,7 @@ As an example, here's a category with 3 set default details:
 2. Cost
 3. Voltage
 
-When a user creates an inventory item in that category, those 3 details are automatically applied to the inventory item. The user will need to fill in the values for those details, or delete them if not necessary. 
+When a user creates an inventory item in that category, those 3 details are automatically applied to the inventory item. The user will need to fill in the values for those details (or delete them if not necessary for that specific inventory item).
 
 <figure>
     <img src="/assets/default-details.jpg"/>
