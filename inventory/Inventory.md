@@ -20,7 +20,11 @@ To add an inventory item:
     <img src="/assets/add-inventory.png" height="300" />
     <figcaption>Add an Inventory Item Screen</figcaption>
 </figure>
-* 
+* Enter in the new inventory name first.
+* Enter in the inventory SKU.
+* The slug (what appears in the address bar) will be automatically generated based on the name.
+* Does the category belong to another category? If so, select the parent category from the dropdown list.
+* Click `New`
 
 ## Updating an Inventory Item
 
