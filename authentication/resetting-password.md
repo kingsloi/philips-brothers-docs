@@ -22,7 +22,7 @@ You will need to know the email address associated to your account. If you canno
     
     <figure>
         <img src="/assets/new-password.png" height="281" />
-        <figcaption>Reset your Password Screen</figcaption>
+        <figcaption>New Password Screen</figcaption>
     </figure>
 
 * Enter and confirm your new password. Make sure it contains one lowercase, one number, and be at least 7 characters long.
