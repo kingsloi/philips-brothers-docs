@@ -8,13 +8,9 @@ An inventory item is made up of the following tabs and fields:
 
 
 
-&lt;figure&gt;
-
-&lt;img src="/assets/add-category.png" height="300" /&gt;&lt;figcaption&gt;Reset your Password Screen&lt;/figcaption&gt;
-
+&lt;figure&gt;  
+&lt;img src="/assets/add-category.png" height="300" /&gt;&lt;figcaption&gt;Reset your Password Screen&lt;/figcaption&gt;  
 &lt;/figure&gt;
-
-
 
 ## General Information
 
