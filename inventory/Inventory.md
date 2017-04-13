@@ -32,7 +32,12 @@ To add an inventory item:
 
 ## Updating an Inventory Item
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque deserunt dolorem dolorum alias voluptatum quasi numquam quis dolore velit dolor facere cumque ducimus vel dicta commodi voluptatibus, qui eos rem.
+To update an inventory item:
+
+* Navigate to {{ book.url }}/admin/inventory/home.
+* Choose the category you wish to edit from the list.
+* Make whatever changes are necessary to the category.
+* Click Save
 
 ## Deleting an Inventory Item
 
