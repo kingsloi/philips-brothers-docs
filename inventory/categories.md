@@ -10,6 +10,8 @@ Before adding any inventory, it's important to add the corrosponding categories 
 * [Restoring a Category](#restoring-a-category)
 * [Permanently Deleting a Category](#permanently-deleting-a-category)
 
+----
+
 ## Adding a Category
 
 To add a category: 
