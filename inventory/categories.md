@@ -51,7 +51,7 @@ When a user creates an inventory item in that category, those 3 details are auto
     <figcaption>Default Details</figcaption>
 </figure>
 
-For more information on adding specifications/details/features, [visit the specification section in the inventory chapter](/inventory/Inventory.md#specification).
+For more information on adding specifications/details/features, [visit the specification section in the inventory chapter](/inventory/Inventory/fields.md#specification).
 
 
 ## Deleting a Category
