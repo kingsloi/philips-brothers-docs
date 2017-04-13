@@ -47,7 +47,17 @@ To update an inventory item:
 
 ## Deleting an Inventory Item
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque deserunt dolorem dolorum alias voluptatum quasi numquam quis dolore velit dolor facere cumque ducimus vel dicta commodi voluptatibus, qui eos rem.
+Deleting an inventory item which has child inventory applied to it will **not** delete any child inventory. Instead, any children inventory will be reassigned as normal (non-child) inventory items. 
+
+To delete a category:
+* Navigate to {{ book.url }}/admin/inventory/categories/home.
+* Choose the category you wish to delete from the list.
+* Scroll down to the `Danger Zone` in the `General` tab.
+* Click `Delete`.
+* Once prompted, confirm you do wish to delete the category.
+* Click `Yes, delete it!`
+
+
 
 ## Restoring an Inventory Item
 
