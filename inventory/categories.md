@@ -34,7 +34,7 @@ To update a category:
 * Make whatever changes are necessary to the category.
 * Click `Save`
 
-### Default Details/Features/Facets 
+### Default Specification/Details/Features/Facets 
 
 To save the user time and rather than apply the same details (i.e. Voltage, Length, Height, etc.) to every inventory item, we've implemented default details for categories. What this means is that any inventory that's created in a category with default details, those `details` will be applied to the inventory. 
 
@@ -50,6 +50,8 @@ When a user creates an inventory item in that category, those 3 details are auto
     <img src="/assets/default-details.jpg"/>
     <figcaption>Default Details</figcaption>
 </figure>
+
+For more information on adding specifications/details/features, [visit the specification section in the inventory chapter](/inventory/Inventory.md#specification).
 
 ## Deleting a Category
 Deleting a category which has inventory applied to it will **not** delete any inventory. Instead, any inventory assigned to that category will be reassigned to an `Uncategorized` category. 
