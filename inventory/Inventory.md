@@ -32,6 +32,8 @@ An inventory item is made up of the following tabs and fields:
 
     * The category the inventory item belongs to.
 * ## **Images**
+
+  * Inventory
 * ## **Files**
 * ## **Inventory**
 
