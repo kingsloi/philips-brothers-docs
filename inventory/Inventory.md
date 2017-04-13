@@ -18,7 +18,7 @@ To add an inventory item:
 * Click `New`
 <figure>
     <img src="/assets/add-inventory.png" height="300" />
-    <figcaption>Add a Category Screen</figcaption>
+    <figcaption>Add an Inventory Item Screen</figcaption>
 </figure>
 * 
 
