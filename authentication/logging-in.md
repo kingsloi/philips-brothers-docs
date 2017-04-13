@@ -1,6 +1,8 @@
 # Logging In
 All users, both admin or customers login via the same login form. Roles and permissions dictate what the user logging in can \(or can't see)\.
 
+---
+
 <figure>
     <img src="/assets/login.png" height="300" />
     <figcaption>Login Screen</figcaption>
