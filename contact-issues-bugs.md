@@ -12,7 +12,7 @@ Please do not hesitate to contact {{ book.supportContactFName }} on {{ book.supp
 
 Please report all bugs to [https://bitbucket.org/kingsloi/philipsbrothers/issues](https://bitbucket.org/kingsloi/philipsbrothers/issues) and provide as much detail as possible, and if possible, screenshots or error messages you received.
 
-An example of adding an issue can be seen below.
+An example of adding an issue can be seen below:
 
 <figure>
     <img src="/assets/adding-an-issue.gif" height="300" />
