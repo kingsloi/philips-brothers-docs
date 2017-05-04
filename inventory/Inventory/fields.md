@@ -14,7 +14,17 @@ An inventory item is made up of the following tabs and fields:
 
 * **Slug**
 
-  * The unique identifier which appears in the address bar.
+  * A slug is a unique URL-friendly version of your category, inventory, plan, or page title. It’s the part that comes after your main domain name. It's normally the name, just all lowercase, all punctuation removed, and all spaces converted to `-` (hypen).
+
+      **For example, for the following title/name:**
+
+      A New Inventory Item
+
+      **The appropriate slug/permalink would be:**
+
+      {{ book.url }}<span class="highlight">/a-new-inventory-item/</span>
+
+      *The slug is the highlighted part, **only***.
 
 * **Description**
 
