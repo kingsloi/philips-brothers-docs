@@ -68,7 +68,7 @@ As briefly discussed in the `Description` section above, the specification secti
 
   * We use a icon library which allows us to use a variety of different icons on the site, icons which aid the user and improve the user experience.
 
-  * All available icons can be found on the following page: [http://fontawesome.io/icons/](http://fontawesome.io/icons/). To use an icon for a specification, similar find an icon you wish to use. Click on the icon, and the page that loads, select the `fa-*` text as show in the example below:
+  * All available icons can be found on the following page: [http://fontawesome.io/icons/](http://fontawesome.io/icons/). To use an icon for a specification, search/find an icon you wish to use. Click on the icon, and the page that loads, select the `fa-*` text as show in the example below. Copy and paste that value in the "icon" field. (p.s. I know this is a bit awkward - but because of the endless possiblities of details/specs, this is the easiest way)
     ![](/assets/font-awesome.png)
 
 * **Title**

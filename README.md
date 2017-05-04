@@ -11,6 +11,7 @@ Familiarize yourself with the new website using the menu on the left.
 * [Contact, Issues, Bugs, etc.](/contact-issues-bugs.md)
 * [Authentication](/authentication.md)
 * [Inventory Management](/inventory.md)
+* [Plans](/plans.md)
 
 
 

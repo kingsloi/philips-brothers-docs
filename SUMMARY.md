@@ -9,4 +9,5 @@
   * [Categories](inventory/categories.md)
   * [Inventory](inventory/Inventory.md)
     * [Fields](inventory/Inventory/fields.md)
+* [Plans](plans.md)
 

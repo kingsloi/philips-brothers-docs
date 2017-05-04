@@ -9,9 +9,18 @@
         "supportContactPhone": "(219) 669-7437"
     },
     "plugins": [
-        "image-captions"
+          "image-captions"
+        , "scripts"
+        , "collapsible-menu"
     ],
     "styles": {
       "website": "styles.css"
+    },
+    "pluginsConfig": {
+        "scripts": {
+            "files": [
+                "./custom-js.js"
+            ]
+        }
     }
 }
