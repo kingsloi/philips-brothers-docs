@@ -1,31 +1,30 @@
 # Categories
 
-Categories serve as the navigation that appear underneath the `Inventory` page on the customer facing website, and ultimately allow the user to get to the right product quicker. 
+Categories serve as the navigation that appear underneath the `Inventory` page on the customer facing website, and ultimately allow the user to get to the right product quicker.
 
-Before adding any inventory, it's important to add the corrosponding categories first, as each inventory item will need a category. Categories can be added/updated/deleted at any time. 
+Before adding any inventory, it's important to add the corrosponding categories first, as each inventory item will need a category. Categories can be added/updated/deleted at any time.
 
 * [Adding a Category](#adding-a-category)
 * [Updating a Category](#updating-a-category)
 * [Deleting a Category](#deleting-a-category)
-* [Restoring a Category](#restoring-a-category)
-* [Permanently Deleting a Category](#permanently-deleting-a-category)
 
 ----
 
 ## Adding a Category
 
-To add a category: 
+To add a category:
 * Navigate to {{ book.url }}/admin/inventory/categories/home.
 * Click `New`
 
 <figure>
-    <img src="/assets/add-category.png" height="300" />
+    <img src="/assets/add-category.png" height="400" />
     <figcaption>Add a Category Screen</figcaption>
 </figure>
 
 * Enter in the new category name first.
 * The `slug` (what appears in the address bar) will be automatically generated.
-* Does the category belong to another category? If so, select the parent category from the dropdown list. 
+* Does the category belong to another category? If so, select the parent category from the dropdown list.
+* Do you want to publish this category? Only published categories show on the customer facing website.
 * Click `New`
 
 ## Updating a Category
@@ -36,9 +35,9 @@ To update a category:
 * Make whatever changes are necessary to the category.
 * Click `Save`
 
-### Default Specification/Details/Features/Facets 
+### Default Specification/Details/Features/Facets
 
-To save the user time and rather than apply the same details (i.e. Voltage, Length, Height, etc.) to every inventory item, we've implemented default details for categories. What this means is that any inventory that's created in a category with default details, those `details` will be applied to the inventory. 
+To save the user time and rather than apply the same details (i.e. Voltage, Length, Height, etc.) to every inventory item, we've implemented default details for categories. What this means is that any inventory that's created in a category with default details, those `details` will be applied to the inventory.
 
 As an example, here's a category with 3 set default details:
 
@@ -57,7 +56,10 @@ For more information on adding specifications/details/features, [visit the speci
 
 
 ## Deleting a Category
-Deleting a category which has inventory applied to it will **not** delete any inventory. Instead, any inventory assigned to that category will be reassigned to an `Uncategorized` category. 
+
+__Note: The category will deleted permanently and not recoverable.__
+
+Deleting a category which has inventory in it will **not** delete any inventory. Instead, any inventory assigned to that category will be reassigned to the `Uncategorized` category.
 
 To delete a category:
 * Navigate to {{ book.url }}/admin/inventory/categories/home.
@@ -65,40 +67,4 @@ To delete a category:
 * Scroll down to the `Danger Zone` in the `General` tab.
 * Click `Delete`.
 * Once prompted, confirm you do wish to delete the category.
-* Click `Yes, delete it!`
-
-## Restoring a Category
-If a category has been deleted, it is not deleted permanently. Deleted categories will not be visible on the customer facing website, the search results, or in any of the admin sections. 
-
-It is however possible to restore a category so that it is available once again. 
-
-To do this:
-* Navigate to {{ book.url }}/admin/inventory/categories/home.
-* Directly above the table are two links to `All` and `Deleted`
-* Click `Deleted`
-* All deleted categories will appear here.
-* Choose a deleted category from the list.
-* Scroll down to the `Danger Zone` in the `General` tab.
-* Click `Restore`.
-* This category is now available for use again. 
-
-**Note**: any inventory that was once associated to the deleted category will remain unchanged. 
-
-## Permanently Deleting a Category
-A category can only be permanently deleted if it has already been marked inactive. 
-
-To permanently delete a category:
-* Follow steps above, however instead of clicking `Restore`, click `Permanently Delete`.
-* Once prompted, confirm you do wish to delete the category.
-* Click `Yes, delete it!`.
-* The category will deleted permanently and no longer be restorable.
-
-
-
-
-
-
-
-
-
-
+* Click `Yes, I'm sure`

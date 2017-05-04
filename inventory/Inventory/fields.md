@@ -19,7 +19,7 @@ An inventory item is made up of the following tabs and fields:
 * **Description**
 
   * The description of the inventory.
-  * _Note_: Unlike before, do not enter inventory-specific features/specification such as rating, voltage, year, cost, etc. in the inventory description. There is a new tab called `Specification` that contains all the products features. This allows the product to be searchable and comparable to other inventory. 
+  * _Note_: Unlike before, do not enter inventory-specific features/specification such as rating, voltage, year, cost, etc. in the inventory description. There is a new tab called `Specification` that contains all the products features. This allows the product to be searchable and comparable to other inventory.
 
 * **Parent item **
 
@@ -29,6 +29,12 @@ An inventory item is made up of the following tabs and fields:
 * **Category**
 
   * The category the inventory item belongs to.
+
+* **Published?**
+
+  * Whether or not the inventory is published. Only published inventory are shown on the customer facing website.
+
+  * For normal, non-admin users, when they use the search functionality, only published results are returned. If logged in as an admin user, both published and un-published results are returned.
 
 ## **Images**
 
@@ -62,12 +68,12 @@ As briefly discussed in the `Description` section above, the specification secti
 
   * We use a icon library which allows us to use a variety of different icons on the site, icons which aid the user and improve the user experience.
 
-  * All available icons can be found on the following page: [http://fontawesome.io/icons/](http://fontawesome.io/icons/). To use an icon for a specification, similar find an icon you wish to use. Click on the icon, and the page that loads, select the `fa-*` text as show in the example below:  
+  * All available icons can be found on the following page: [http://fontawesome.io/icons/](http://fontawesome.io/icons/). To use an icon for a specification, similar find an icon you wish to use. Click on the icon, and the page that loads, select the `fa-*` text as show in the example below:
     ![](/assets/font-awesome.png)
 
 * **Title**
 
-  * You can either choose from an existing specification from the dropdown list, or begin to type your own. Once typed, be sure to click the new item as seen in the example below:  
+  * You can either choose from an existing specification from the dropdown list, or begin to type your own. Once typed, be sure to click the new item as seen in the example below:
     ![](/assets/add-new-specificaton.gif)
 
 * **Content**
